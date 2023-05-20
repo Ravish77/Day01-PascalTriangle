@@ -1,5 +1,3 @@
-package com.day01.macbook;
-
 import java.util.Scanner;
 
 public class PascalTriangleUsingSimpleLoop {
